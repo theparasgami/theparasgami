@@ -21,3 +21,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theparasgami&show_icons=true&locale=en&layout=compact" alt="theparasgami" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theparasgami&show_icons=true&locale=en" alt="theparasgami" /></p>
+<img src="https://activity-graph.herokuapp.com/graph?username=theparasgami&theme=react-dark&bg_color=00000000&color=037bfc&line=037bfc&point=00000000&area=true&hide_border=true"> <br>
