@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Paras Gami</h1>
 <h3 align="center">A passionate Programmer from India</h3>
 
-- 🔭 I’m currently working on **Web Development** and **Competitive Programming**
+🌱 I’m currently exploring various new and exciting Technologies.
 
-- 🌱 I’m currently learning **react.js**
-
-- 💬 Ask me about **cp, node and javascript**
-
-- 📫 How to reach me **parasgami0601@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=20BCS151@iiitdmj.ac.in">
+  <img align="left" alt="Gmail" width="30px" src="https://user-images.githubusercontent.com/86421345/176883717-d4d5cfd7-691f-4a66-b192-185f11c0d609.png"     />
+</a>
 <a href="https://twitter.com/gami_paras?lang=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the-paras-gami" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/paras-gami-54719b1b8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGwRDOzHFTLWIgp3pFOqTig%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="the-paras-gami" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -26,8 +24,12 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>   
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <!--<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>  </a> -->
+   <a href="https://reactjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+   <a href="https://mongodb.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongo" width="40" height="40"/> </a> 
+   
+  
 </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theparasgami&theme=dark&show_icons=true&locale=en&layout=compact" alt="theparasgami" /></p>
 
